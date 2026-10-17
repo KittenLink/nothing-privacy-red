@@ -1,0 +1,18 @@
+com.nothing.privacyred
+id btnTestBlink
+id btnTestOff
+id etBright
+id etCamBlink
+id etMicBlink
+id sbBright
+id sbCamBlink
+id sbMicBlink
+id swCam
+id swMic
+id tvBright
+id tvCamBlink
+id tvHint
+id tvMicBlink
+id tvStatus
+layout activity_main
+style Theme_PrivacyRed

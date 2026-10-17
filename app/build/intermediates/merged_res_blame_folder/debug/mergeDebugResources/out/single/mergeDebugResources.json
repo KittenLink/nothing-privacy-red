@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.nothing.privacyred.app-debug-30:/layout_activity_main.xml.flat",
+        "source": "com.nothing.privacyred.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoum\\.gradle\\daemon\\9.5.0\\com.nothing.privacyred.app-debug-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shoum\\.gradle\\daemon\\9.5.0\\com.nothing.privacyred.app-main-32:\\layout\\activity_main.xml"
+    }
+]
